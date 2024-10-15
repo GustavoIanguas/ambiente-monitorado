@@ -25,4 +25,4 @@ Aplicação atualiza os dados a cada 30 segundos, ou quando clicado no botão '+
 ### Pedro Plácido [repo](https://github.com/zPlacd/ambiente-monitorado) <br/>
 ### Fabrio Santos [repo](https://github.com/Fabriciozil/ambiente-monitorado) <br/>
 
-![]<img width="1409" alt="Captura de Tela 2024-10-15 às 20 46 10" src="https://github.com/user-attachments/assets/e862ef0f-fc74-428a-8355-4ba42fe91dff">
+![] <img width="1409" alt="Captura de Tela 2024-10-15 às 20 46 10" src="https://github.com/user-attachments/assets/e862ef0f-fc74-428a-8355-4ba42fe91dff">
