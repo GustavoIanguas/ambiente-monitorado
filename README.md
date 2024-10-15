@@ -1,6 +1,6 @@
 # ambiente-monitorado
 <br/>
-##monitoramento da temperatura dos comodos da casa
+## monitoramento da temperatura dos comodos da casa
 
 ### Como rodar ambiente de desenvolvimento
 1. Para rodar clone o repositório e clique duas vezes no arquivo index.html disponibilizado no repositorio 
