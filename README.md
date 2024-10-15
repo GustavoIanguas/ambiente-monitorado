@@ -1,5 +1,5 @@
 # ambiente-monitorado
-<br/>
+
 ## monitoramento da temperatura dos comodos da casa
 
 ### Como rodar ambiente de desenvolvimento
