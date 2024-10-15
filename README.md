@@ -20,9 +20,9 @@
 Aplicação atualiza os dados a cada 30 segundos, ou quando clicado no botão '+'
 
 ## Integrantes
-### Gustavo Ianguas [repo](https://github.com/GustavoIanguas/ambiente-monitorado) <br/>
-### Cauã Rodrigues [repo](https://github.com/cauarpmarques/ambientes-monitorado) <br/>
-### Pedro Plácido [repo](https://github.com/zPlacd/ambiente-monitorado) <br/>
-### Fabrio Santos [repo](https://github.com/Fabriciozil/ambiente-monitorado) <br/>
+### Gustavo Ianguas - RM551362 - [repo](https://github.com/GustavoIanguas/ambiente-monitorado) <br/>
+### Cauã Rodrigues - RM551893 - [repo](https://github.com/cauarpmarques/ambiente-monitorado) <br/>
+### Pedro Plácido - RM98219 - [repo](https://github.com/zPlacd/ambiente-monitorado) <br/>
+### Fabrio Santos - RM552592 - [repo](https://github.com/Fabriciozil/ambiente-monitorado) <br/>
 
 ![] <img width="1409" alt="Captura de Tela 2024-10-15 às 20 46 10" src="https://github.com/user-attachments/assets/e862ef0f-fc74-428a-8355-4ba42fe91dff">
